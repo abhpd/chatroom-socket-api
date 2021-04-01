@@ -4,7 +4,8 @@
   "description": "Socket Server for chatroom chrome extention: https://github.com/abhpd/chatroom-chrome-ext",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
